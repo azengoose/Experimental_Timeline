@@ -18,6 +18,7 @@ export default function App() {
       a.target = "_blank";
     }
   }
+  //hi there this is a comment
   return (
     <>
       <main role="main" className="wrapper">
