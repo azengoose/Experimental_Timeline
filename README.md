@@ -1,4 +1,4 @@
-# MetaSite Demo
+# MetaSite Experimental Project
 
 Has no affiliation with Meta.
 
